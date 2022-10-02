@@ -33,3 +33,6 @@ Code formatting doesn't matters, The main point is that it should work and it sh
 - My discord usernames: `Shisui San#6422`, `Shisui#4094`
 
 Feel free to participate and let's code & enjoy together <3
+
+
+`Cørg1 was here. Shh~ 👀`
