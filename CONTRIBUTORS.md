@@ -18,7 +18,7 @@
     > GitHub: [ahmadherzallah](https://github.com/ahmadherzallah/)
     > BIO: High school senior found himself coding snakes language.
     > Contribution: Bus Management System
-  > Name: **keagtorb**
+-  > Name: **keagtorb**
     > GitHub: [keagtorb](https://github.com/keagtorb/)
     > BIO: that wierdo who codes.
     > Contribution: chat bot
