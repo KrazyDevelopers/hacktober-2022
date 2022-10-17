@@ -10,3 +10,7 @@
     > GitHub: [bmalvo](https://github.com/bmalvo/)
     > BIO: Aspire to junior Python Dev.
     > Contribution: gaderypoluki cipher
+- > Name: **keagtorb**
+    > GitHub: [keagtorb](https://github.com/keatorb/)
+    > BIO: just a caffine addict who loves to code.
+    > Contribution:simple chat bot
