@@ -14,3 +14,8 @@
     > GitHub: [bmalvo](https://github.com/bmalvo/)
     > BIO: Aspire to junior Python Dev.
     > Contribution: gaderypoluki cipher
+ - > Name: **Unnati Gupta**
+    > GitHub: [unnatigupta2019](https://github.com/unnatigupta2019)
+    > BIO: Aspire to be a Web-developer.
+    > Contribution: clock using html,css and javascript.
+  
