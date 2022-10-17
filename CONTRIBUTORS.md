@@ -6,3 +6,8 @@
     > BIO: Trying to figure out things
     > Contribution: A website that plays songs
     > Demo: [click here to see website demo](https://musicalsmth.ga/)
+- > Name: **Satvik Maheshwari**
+    > Github: [sarcasvik](https://github.com/sarcasvik)
+    > Bio: University student passionate for coding
+    > Contribution: A personl project based on reactjs (a shoping cart website)
+    
