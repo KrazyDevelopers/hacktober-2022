@@ -22,3 +22,7 @@
     > GitHub: [keagtorb](https://github.com/keagtorb/)
     > BIO: that wierdo who codes.
     > Contribution: chat bot
+ -  > Name: **Harinadh**
+    > GitHub: [harinadh76](https://github.com/harinadh76/)
+    > BIO: Learning MERN Stack.
+    > Contribution: OTP generator
