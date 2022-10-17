@@ -14,3 +14,7 @@
     > GitHub: [bmalvo](https://github.com/bmalvo/)
     > BIO: Aspire to junior Python Dev.
     > Contribution: gaderypoluki cipher
+- > Name: **Tanish Goyal**
+    > GitHub: [tanishgoyal07](https://github.com/tanishgoyal07/)
+    > BIO: Aspire to a Flutter Developer.
+    > Contribution: knapsack.java
