@@ -6,3 +6,7 @@
     > BIO: Trying to figure out things
     > Contribution: A website that plays songs
     > Demo: [click here to see website demo](https://musicalsmth.ga/)
+- > Name: **bmalvo**
+    > GitHub: [bmalvo](https://github.com/bmalvo/)
+    > BIO: Aspire to junior Python Dev.
+    > Contribution: gaderypoluki cipher
