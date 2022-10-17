@@ -14,3 +14,7 @@
     > GitHub: [bmalvo](https://github.com/bmalvo/)
     > BIO: Aspire to junior Python Dev.
     > Contribution: gaderypoluki cipher
+- > Name: **Ahmad Herzallah**
+    > GitHub: [ahmadherzallah](https://github.com/ahmadherzallah/)
+    > BIO: High school senior found himself coding snakes language.
+    > Contribution: Bus Management System
