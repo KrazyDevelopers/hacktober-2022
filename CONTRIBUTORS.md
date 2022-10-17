@@ -10,4 +10,7 @@
     > Github: [sarcasvik](https://github.com/sarcasvik)
     > Bio: University student passionate for coding
     > Contribution: A personl project based on reactjs (a shoping cart website)
-    
+- > Name: **bmalvo**
+    > GitHub: [bmalvo](https://github.com/bmalvo/)
+    > BIO: Aspire to junior Python Dev.
+    > Contribution: gaderypoluki cipher
