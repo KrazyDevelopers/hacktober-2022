@@ -34,3 +34,7 @@
     > GitHub: [SukarayamJanjua](https://github.com/SukarayamJanjua/)
     > BIO: Programmer,web developer, ethical hacker & forever learner
     > Contribution: Added Tic-Tac-Toe game made in python
+ -  > Name: **Anurag**
+    > GitHub: [Danuragtiwari](https://github.com/Danuragtiwari)
+    > BIO: Django is Love.
+    > Contribution: Canno game
