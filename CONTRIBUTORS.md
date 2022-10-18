@@ -33,4 +33,4 @@
  -  > Name: **Sukarayam Janjua**
     > GitHub: [SukarayamJanjua](https://github.com/SukarayamJanjua/)
     > BIO: Programmer,web developer, ethical hacker & forever learner
-    > Contribution: Added Tic-Tac-Toe game made in python
+    > Contribution: Added Tic-Tac-Toe game made in python + Added To-DO list in Javascipt
