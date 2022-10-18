@@ -30,3 +30,7 @@
     > GitHub: [harinadh76](https://github.com/harinadh76/)
     > BIO: Learning MERN Stack.
     > Contribution: OTP generator
+ -  > Name: **Sukarayam Janjua**
+    > GitHub: [SukarayamJanjua](https://github.com/SukarayamJanjua/)
+    > BIO: Programmer,web developer, ethical hacker & forever learner
+    > Contribution: Added Tic-Tac-Toe game made in python
