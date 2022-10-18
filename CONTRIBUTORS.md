@@ -14,8 +14,28 @@
     > GitHub: [bmalvo](https://github.com/bmalvo/)
     > BIO: Aspire to junior Python Dev.
     > Contribution: gaderypoluki cipher
- - > Name: **Unnati Gupta**
+- > Name: **Unnati Gupta**
     > GitHub: [unnatigupta2019](https://github.com/unnatigupta2019)
     > BIO: Aspire to be a Web-developer.
     > Contribution: clock using html,css and javascript.
-  
+- > Name: **Tanish Goyal**
+    > GitHub: [tanishgoyal07](https://github.com/tanishgoyal07/)
+    > BIO: Aspire to a Flutter Developer.
+    > Contribution: knapsack.java
+- > Name: **Ahmad Herzallah**
+    > GitHub: [ahmadherzallah](https://github.com/ahmadherzallah/)
+    > BIO: High school senior found himself coding snakes language.
+    > Contribution: Bus Management System
+-  > Name: **keagtorb**
+    > GitHub: [keagtorb](https://github.com/keagtorb/)
+    > BIO: that wierdo who codes.
+    > Contribution: chat bot
+ -  > Name: **Harinadh**
+    > GitHub: [harinadh76](https://github.com/harinadh76/)
+    > BIO: Learning MERN Stack.
+    > Contribution: OTP generator
+ -  > Name: **Sukarayam Janjua**
+    > GitHub: [SukarayamJanjua](https://github.com/SukarayamJanjua/)
+    > BIO: Programmer,web developer, ethical hacker & forever learner
+    > Contribution: Added Tic-Tac-Toe game made in python
+
