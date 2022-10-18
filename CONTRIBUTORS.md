@@ -38,4 +38,6 @@
     > GitHub: [SukarayamJanjua](https://github.com/SukarayamJanjua/)
     > BIO: Programmer,web developer, ethical hacker & forever learner
     > Contribution: Added Tic-Tac-Toe game made in python
-
+- > Name: **Seraph**
+    > Github: [Seraph776](https://github.com/seraph776)
+    > Bio: I'm from nowhere specific & everywhere in general ~ I'm just here to code!
