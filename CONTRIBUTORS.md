@@ -1,43 +1,47 @@
-- > Name: **Kartike Singh**
-    > Github: [Kartike Singh](https://github.com/kartikeSingh)
-    > Bio: Just a random developer, doing random fun stuff
-- > Name: **Jatin(a.k.a sunshine)**
-    > GitHub: [TEDDY6969](https://github.com/TEDDY6969/)
-    > BIO: Trying to figure out things
-    > Contribution: A website that plays songs
-    > Demo: [click here to see website demo](https://musicalsmth.ga/)
-- > Name: **Satvik Maheshwari**
-    > Github: [sarcasvik](https://github.com/sarcasvik)
-    > Bio: University student passionate for coding
-    > Contribution: A personl project based on reactjs (a shoping cart website)
-- > Name: **bmalvo**
-    > GitHub: [bmalvo](https://github.com/bmalvo/)
-    > BIO: Aspire to junior Python Dev.
-    > Contribution: gaderypoluki cipher
-- > Name: **Unnati Gupta**
-    > GitHub: [unnatigupta2019](https://github.com/unnatigupta2019)
-    > BIO: Aspire to be a Web-developer.
-    > Contribution: clock using html,css and javascript.
-- > Name: **Tanish Goyal**
-    > GitHub: [tanishgoyal07](https://github.com/tanishgoyal07/)
-    > BIO: Aspire to a Flutter Developer.
-    > Contribution: knapsack.java
-- > Name: **Ahmad Herzallah**
-    > GitHub: [ahmadherzallah](https://github.com/ahmadherzallah/)
-    > BIO: High school senior found himself coding snakes language.
-    > Contribution: Bus Management System
--  > Name: **keagtorb**
-    > GitHub: [keagtorb](https://github.com/keagtorb/)
-    > BIO: that wierdo who codes.
-    > Contribution: chat bot
- -  > Name: **Harinadh**
-    > GitHub: [harinadh76](https://github.com/harinadh76/)
-    > BIO: Learning MERN Stack.
-    > Contribution: OTP generator
- -  > Name: **Sukarayam Janjua**
-    > GitHub: [SukarayamJanjua](https://github.com/SukarayamJanjua/)
-    > BIO: Programmer,web developer, ethical hacker & forever learner
-    > Contribution: Added Tic-Tac-Toe game made in python
-- > Name: **Seraph**
-    > Github: [Seraph776](https://github.com/seraph776)
-    > Bio: I'm from nowhere specific & everywhere in general ~ I'm just here to code!
+- > Name: **Kartike Singh**<br>
+    > Github: [Kartike Singh](https://github.com/kartikeSingh)<br>
+    > Bio: Just a random developer, doing random fun stuff<br>
+- > Name: **Jatin(a.k.a sunshine)**<br>
+    > GitHub: [TEDDY6969](https://github.com/TEDDY6969/)<br>
+    > BIO: Trying to figure out things<br>
+    > Contribution: A website that plays songs<br>
+    > Demo: [click here to see website demo](https://musicalsmth.ga/)<br>
+- > Name: **Satvik Maheshwari**<br>
+    > Github: [sarcasvik](https://github.com/sarcasvik)<br>
+    > Bio: University student passionate for coding<br>
+    > Contribution: A personl project based on reactjs (a shoping cart website)<br>
+- > Name: **bmalvo**<br>
+    > GitHub: [bmalvo](https://github.com/bmalvo/)<br>
+    > BIO: Aspire to junior Python Dev.<br>
+    > Contribution: gaderypoluki cipher<br>
+- > Name: **Unnati Gupta**<br>
+    > GitHub: [unnatigupta2019](https://github.com/unnatigupta2019)<br>
+    > BIO: Aspire to be a Web-developer.<br>
+    > Contribution: clock using html,css and javascript.<br>
+- > Name: **Tanish Goyal**<br>
+    > GitHub: [tanishgoyal07](https://github.com/tanishgoyal07/)<br>
+    > BIO: Aspire to a Flutter Developer.<br>
+    > Contribution: knapsack.java<br>
+- > Name: **Ahmad Herzallah**<br>
+    > GitHub: [ahmadherzallah](https://github.com/ahmadherzallah/)<br>
+    > BIO: High school senior found himself coding snakes language.<br>
+    > Contribution: Bus Management System<br>
+-  > Name: **keagtorb**<br>
+    > GitHub: [keagtorb](https://github.com/keagtorb/)<br>
+    > BIO: that wierdo who codes.<br>
+    > Contribution: chat bot<br>
+ -  > Name: **Harinadh**<br>
+    > GitHub: [harinadh76](https://github.com/harinadh76/)<br>
+    > BIO: Learning MERN Stack.<br>
+    > Contribution: OTP generator<br>
+ -  > Name: **Sukarayam Janjua**<br>
+    > GitHub: [SukarayamJanjua](https://github.com/SukarayamJanjua/)<br>
+    > BIO: Programmer,web developer, ethical hacker & forever learner<br>
+    > Contribution: Added Tic-Tac-Toe game made in python<br>
+- > Name: **Seraph**<br>
+    > Github: [Seraph776](https://github.com/seraph776)<br>
+    > Bio: I'm from nowhere specific & everywhere in general ~ I'm just here to code!<br>
+-  > Name: **null8626**<br>
+    > GitHub: [null8626](https://github.com/null8626)<br>
+    > BIO: A cute Rust, TypeScript, and C/C++ developer! c:<br>
+    > Contribution: Restructure codebase, add `.gitattributes` and `.gitignore`, and fix typos in `README.md`<br>
