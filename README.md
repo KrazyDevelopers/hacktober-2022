@@ -12,10 +12,10 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 ## 📜 Contribution guidelines
 - Do not remove anyone else's code
-- Make seprate Pull Request for each project / code entry
-- Do not create spam requests
+- Make separate Pull Request for each project / code entry
+- Do not create spam pull requests
 - Make sure your code is unique in the repository
-- Make sure yoou are follwing the `CONTRIBUTORS.md` format properly
+- Make sure you are following the `CONTRIBUTORS.md` format properly
 
 ## 🤔 What to contribute?
 Any working code of any language, Make sure you put your code in the correct language's folder.
